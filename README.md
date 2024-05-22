@@ -1,5 +1,5 @@
-**I. Scope and objective of the project
-1. Scope of the project:**
+**I. Scope and objective of the project**
+**1. Scope of the project:**
 - Space scope: Application of BI solutions to analyze the dataset of AdventureWorks company. It involves approaching and studying datasets related to the HR department.
 - Time scope: Project implementation period is from March 2 to May 10, 2024.
 **2. Objective of the project:**
@@ -19,8 +19,8 @@ The objective is to integrate database activities with HR processes, leveraging 
 
 ![image](https://github.com/HuynhNgocDung4060390/Business-Intelligence-Solution-for-Hr-Module-of-AdventureWorks/assets/150424521/3d7bfea9-8f04-47e1-9967-8bef7d36ab78)
 
-**IV. Data Warehouse
-1. Data source:**
+**IV. Data Warehouse**
+**1. Data source:**
 [Human Resources Module ]([url](https://dataedo.com/samples/html/AdventureWorks/doc/AdventureWorks_2/modules/Human_Resources_9/module.html))of The Adventure Works Data Warehouse 2019
 
 ![image](https://github.com/HuynhNgocDung4060390/Business-Intelligence-Solution-for-Hr-Module-of-AdventureWorks/assets/150424521/a0d9dc8a-dd45-4d0b-8c71-0c4137784dd9)
@@ -36,8 +36,8 @@ The objective is to integrate database activities with HR processes, leveraging 
 
 ![image](https://github.com/HuynhNgocDung4060390/Business-Intelligence-Solution-for-Hr-Module-of-AdventureWorks/assets/150424521/041a1a6b-e249-40c9-95ed-fb3ec0d7a4c1)
 
-**V. Experimental results and analysis
-1. Report and dashboard system**
+**V. Experimental results and analysis**
+**1. Report and dashboard system**
 
 ![image](https://github.com/HuynhNgocDung4060390/Business-Intelligence-Solution-for-Hr-Module-of-AdventureWorks/assets/150424521/bc83f83e-bc69-44bd-8634-283b45f2c20f)
 
