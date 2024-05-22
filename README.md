@@ -19,7 +19,7 @@ III.  BI solution proposal
 
 ![image](https://github.com/HuynhNgocDung4060390/Business-Intelligence-Solution-for-Hr-Module-of-AdventureWorks/assets/150424521/3d7bfea9-8f04-47e1-9967-8bef7d36ab78)
 
-IV. DataWarehouse
+IV. Data Warehouse
 1. Data source:
 [Human Resources Module ]([url](https://dataedo.com/samples/html/AdventureWorks/doc/AdventureWorks_2/modules/Human_Resources_9/module.html))of The Adventure Works Data Warehouse 2019
 
@@ -29,16 +29,17 @@ IV. DataWarehouse
 
 3. Bus matrix
 
-![image](https://github.com/HuynhNgocDung4060390/Business-Intelligence-Solution-for-Hr-Module-of-AdventureWorks/assets/150424521/40b10c7a-4eb7-4f81-b226-9267bc8e61f3)
+![image](https://github.com/HuynhNgocDung4060390/Business-Intelligence-Solution-for-Hr-Module-of-AdventureWorks/assets/150424521/903e1509-f4a1-4d6b-967d-f323a1f12c10)
+
 
 4. Data Warehouse model
 
-![image](https://github.com/HuynhNgocDung4060390/Business-Intelligence-Solution-for-Hr-Module-of-AdventureWorks/assets/150424521/cf96098a-8e3d-4104-964a-4cd23268cb46)
+![image](https://github.com/HuynhNgocDung4060390/Business-Intelligence-Solution-for-Hr-Module-of-AdventureWorks/assets/150424521/041a1a6b-e249-40c9-95ed-fb3ec0d7a4c1)
 
 V. Experimental results and analysis
 1. Report and dashboard system
 
-![image](https://github.com/HuynhNgocDung4060390/Business-Intelligence-Solution-for-Hr-Module-of-AdventureWorks/assets/150424521/9410f2f1-d6f1-47d6-8235-3476757c1032)
+![image](https://github.com/HuynhNgocDung4060390/Business-Intelligence-Solution-for-Hr-Module-of-AdventureWorks/assets/150424521/bc83f83e-bc69-44bd-8634-283b45f2c20f)
 
 2. Recommendation
 - Implement comprehensive HR dashboards with a BI system for data-driven decision-making.
