@@ -25,12 +25,12 @@ IV. Data Warehouse
 
 ![image](https://github.com/HuynhNgocDung4060390/Business-Intelligence-Solution-for-Hr-Module-of-AdventureWorks/assets/150424521/a0d9dc8a-dd45-4d0b-8c71-0c4137784dd9)
 
-![image](https://github.com/HuynhNgocDung4060390/Business-Intelligence-Solution-for-Hr-Module-of-AdventureWorks/assets/150424521/e55a41d5-4b9d-43b6-a180-d10cdc41c096)
 
 3. Bus matrix
 
 ![image](https://github.com/HuynhNgocDung4060390/Business-Intelligence-Solution-for-Hr-Module-of-AdventureWorks/assets/150424521/903e1509-f4a1-4d6b-967d-f323a1f12c10)
 
+![image](https://github.com/HuynhNgocDung4060390/Business-Intelligence-Solution-for-Hr-Module-of-AdventureWorks/assets/150424521/68cd63e3-3322-4e2f-a0b0-5f6730c52810)
 
 4. Data Warehouse model
 
