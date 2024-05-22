@@ -1,0 +1,43 @@
+Visualization and Discussion
+
+In this chapter, we will visualize and discuss the information and insights analyzed in the smart reports. The utilization of graphical forms such as graphs, charts, and other visualization methods aids in providing managers with a multi-dimensional perspective for making more effective decisions.
+
+📝Structure of the Reporting System
+The reporting system comprises reports and dashboards that transform data into easily understandable charts and provide useful information for businesses. Our team used Power BI for data analysis and presentation, facilitating the following:
+
+🚦HR Analytics Dashboard
+
+Purpose
+The HR Analytics Dashboard aims to provide insights into workforce performance and trends, empowering HR professionals and organizational leaders with actionable intelligence for informed decision-making.
+
+Description
+
+The dashboard offers customizable data views with filters for department and year selection. It includes:
+- Main Dashboard: Provides insights into key HR metrics.
+- Additional Dashboards: Focus on specific KPIs such as salary management, time off hours management, and new hire employees management.
+
+Insights Provided
+- Quick Insights: Visualizations offer insights into key HR metrics like employee count, average salary, and departmental changes.
+- Deep Dive: Additional visualizations provide insights into employee movement, vacation, and sick leave hours, and trends in salary changes over time.
+
+📈 Data Analysis
+- Percentage of Employees Moving Departments (Pie Chart) The Production department shows the largest percentage (60.8%) of departmental transfers, indicating high workforce mobility.
+- Distribution of Vacation and Sick Leave Hours (Donut Chart) Sick leave hours (52.7%) are higher than vacation hours (47.3%), suggesting potential health-related issues or work-life balance concerns.
+- Shift-wise Staff Allocation and Salary Distribution (Chart)Day Shift has the highest average salary ($20,000) and employee count (176), indicating higher demand and compensation. Evening and Night Shifts have lower average salaries ($14,000) and fewer employees, suggesting different staffing dynamics.
+- Trends in Salary Changes (Line Chart)Peak in salary adjustments in 2009 (148 instances) indicates significant changes in compensation management.
+
+💬 KPI Dashboards
+
+*KPI 1: Average Rate Management
+Provides insights into average salary trends across departments and years.
+Helps in optimizing compensation strategies and ensuring fairness.
+
+KPI 2: Time Off Hours Management
+Analyzes employee absenteeism trends by department.
+Offers insights into workforce well-being and productivity.
+
+KPI 3: New Hire Employees Management
+Tracks annual hiring trends and demographics by department.
+Aids in aligning talent acquisition strategies with organizational goals.
+Evaluation and Discussion
+Each dashboard contributes uniquely to HR analytics, enabling HR professionals to optimize performance, foster engagement, and align talent strategies with organizational goals. By prioritizing critical KPIs related to employee engagement, retention, and talent acquisition, organizations can drive sustainable growth and competitive advantage in the dynamic business landscape.

@@ -1,0 +1,30 @@
+Getting Started with BI_Project by Grop 4
+
+📝Overview
+This repository contains the code and documentation for a comprehensive HR data analysis project conducted using Business Intelligence (BI) tools and techniques. The project focuses on analyzing workforce data from Adventure Works Cycles, a multinational manufacturing company, to derive actionable insights for HR decision-making.
+
+🚦Contents
+data_integration.md: Documentation detailing the process of data integration, including ETL pipeline setup and SSIS tool configuration.
+multi_dimensional_data_analysis.md: Documentation outlining the strategy, goals, and implementation of multidimensional data analysis in the HR module.
+visualization_and_discussion.md: Documentation describing the visualization techniques employed to present analyzed data and facilitate decision-making.
+📈 Project Structure
+Data Integration: Details the process of extracting, transforming, and loading (ETL) data into the data warehouse using SSIS tools.
+Multi-Dimensional Data Analysis: Explores the strategy and implementation of multidimensional data analysis, including key HR metrics and analysis techniques.
+Visualization and Discussion: Describes the visualization methods used to present insights from the analyzed data, including Power BI dashboards and charts.
+Conclusion and Future Works: Summarizes the project's results, identifies limitations, and provides recommendations for future work.
+Appendix: Includes additional information such as lessons learned, issues faced, and best practices identified during the project.
+💬 Usage
+Clone the repository to your local machine.
+Explore the documentation files (*.md) to understand the project's methodology, results, and recommendations.
+Review the screenshot of the HR Analytics Dashboard (HR_Analytics_Dashboard.png) to visualize the insights generated from the analyzed data.
+Utilize the project structure to navigate through specific aspects of the HR data analysis process, including data integration, multidimensional analysis, visualization, and conclusion.
+
+💬 Contributors
+Tran Thanh Phong (Leader)
+Huynh Ngọc Dung
+Doan Hoa Ky
+Nguyen Mai Trinh
+Tran Thi Van Anh
+
+💬 Acknowledgments
+We would like to express our gratitude to Assoc. Prof. Ho Trung Thanh, Ph.D. and Nguyen Van Ho, M.A. and Le Ba Thien, M.Sc. for their guidance and support throughout the project.

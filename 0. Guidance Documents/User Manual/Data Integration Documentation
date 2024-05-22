@@ -1,0 +1,38 @@
+Data Integration Documentation
+
+This document outlines the data integration process conducted as part of the HR data analysis project. The data integration phase involves extracting, transforming, and loading (ETL) data from the source database into a data warehouse, enabling comprehensive analysis and visualization.:owlbert:
+
+📝Overview
+Data integration is a crucial step in the data analysis pipeline, as it involves collecting relevant data from disparate sources, transforming it into a consistent format, and loading it into a centralized repository for analysis. In this project, we focused on integrating HR data from the Adventure Works Cycles database into a data warehouse using SQL Server Integration Services (SSIS) tools.
+
+🚦Process
+The data integration process consists of the following key steps:
+
+1. Extract
+Source Data: Adventure Works Cycles database.
+Main Data Tables: Employee, Department, Job Title, etc.
+Extraction Method: SQL queries to retrieve data from source tables.
+2. Transform
+Data Cleansing: Handle missing or inaccurate data.
+Data Normalization: Combine tables, apply business rules, calculate metrics, remove duplicates, etc.
+Data Type Conversion: Ensure consistency in data types across tables.
+ETL Process Diagram: Visual representation of the ETL process for dimension tables.
+3. Load
+Destination: Human Resources data mart.
+Storage: Separate data tables based on topics or using star schema/snowflake schema.
+Loading Method: SSIS packages to load transformed data into the data warehouse.
+
+📈 Dimension Table's ETL Process
+The ETL process for each dimension table involves the following steps:
+
+1. Create SSIS Project: Set up a new Integration Services Project in Visual Studio.
+2. Create Connection Manager: Establish connections to both the Adventure Works Cycles database and the destination database.
+3. Overview Diagram: Create an overview diagram illustrating the ETL process from source tables to destination tables.
+4. Create SSIS Package: Develop a new SSIS package for each dimension table.
+5. Insert Database Source: Configure OLE DB Source to extract data from the source table.
+6. Create Table Keys: Generate new keys for dimension tables using Derived Column transformation.
+7. Configure Data Destination: Utilize Slowly Changing Dimension (SCD) techniques to manage changes in dimension columns.
+9. Run Package: Execute the SSIS package to load transformed data into the destination table.
+
+💬 Conclusion
+The data integration process is a fundamental step in preparing data for analysis. By extracting, transforming, and loading data from the source database into a data warehouse, organizations can derive valuable insights to support decision-making and enhance business operations. In this project, we successfully integrated HR data from the Adventure Works Cycles database using SSIS tools, laying the foundation for comprehensive data analysis and visualization in subsequent stages of the project.
