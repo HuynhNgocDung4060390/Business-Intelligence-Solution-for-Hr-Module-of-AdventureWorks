@@ -16,23 +16,32 @@ II. Business Questions
 - What are the most important KPIs for measuring HR performance and effectiveness and how do they align with organizational goals and objectives?
 
 III.  BI solution proposal
+
 ![image](https://github.com/HuynhNgocDung4060390/Business-Intelligence-Solution-for-Hr-Module-of-AdventureWorks/assets/150424521/3d7bfea9-8f04-47e1-9967-8bef7d36ab78)
 
 IV. DataWarehouse
 1. Data source:
-[Human Resources Module ]([url](https://dataedo.com/samples/html/AdventureWorks/doc/AdventureWorks_2/modules/Human_Resources_9/module.html))of The Adventure Works Data Warehouse 2019 comprises a total of 30 Fact and Dimension tables.
+[Human Resources Module ]([url](https://dataedo.com/samples/html/AdventureWorks/doc/AdventureWorks_2/modules/Human_Resources_9/module.html))of The Adventure Works Data Warehouse 2019
+
 ![image](https://github.com/HuynhNgocDung4060390/Business-Intelligence-Solution-for-Hr-Module-of-AdventureWorks/assets/150424521/a0d9dc8a-dd45-4d0b-8c71-0c4137784dd9)
-2. Bus matrix
+
+3. Bus matrix
+
 ![image](https://github.com/HuynhNgocDung4060390/Business-Intelligence-Solution-for-Hr-Module-of-AdventureWorks/assets/150424521/40b10c7a-4eb7-4f81-b226-9267bc8e61f3)
-3. Design data warehouse
+4. Design data warehouse
 The objective of project is to implement BI Solution for the HR Process of AdventureWorks, therefore selecting relevant tables related to sales performance from the data source to design the AdventureWorksSales data warehouse.
+
 ![image](https://github.com/HuynhNgocDung4060390/Business-Intelligence-Solution-for-Hr-Module-of-AdventureWorks/assets/150424521/e55a41d5-4b9d-43b6-a180-d10cdc41c096)
-4. Data Warehouse model
+
+5. Data Warehouse model
+
 ![image](https://github.com/HuynhNgocDung4060390/Business-Intelligence-Solution-for-Hr-Module-of-AdventureWorks/assets/150424521/cf96098a-8e3d-4104-964a-4cd23268cb46)
 
 V. Experimental results and analysis
 1. Report and dashboard system
+
 ![image](https://github.com/HuynhNgocDung4060390/Business-Intelligence-Solution-for-Hr-Module-of-AdventureWorks/assets/150424521/9410f2f1-d6f1-47d6-8235-3476757c1032)
+
 2. Recommendation
 - Implement comprehensive HR dashboards with a BI system for data-driven decision-making.
 - Address salary discrepancies promptly and ensure fair compensation structures.
