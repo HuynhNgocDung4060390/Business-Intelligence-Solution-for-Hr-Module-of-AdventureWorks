@@ -1,7 +1,9 @@
 **I. Scope and objective of the project**
+
 **1. Scope of the project:**
 - Space scope: Application of BI solutions to analyze the dataset of AdventureWorks company. It involves approaching and studying datasets related to the HR department.
 - Time scope: Project implementation period is from March 2 to May 10, 2024.
+
 **2. Objective of the project:**
 The objective is to integrate database activities with HR processes, leveraging BI solutions to enhance decision-making, improve efficiency, and foster HR growth. It is included:
 - Explain the role of Business Intelligence (BI) in HR, specifically focusing on the recruitment process and its impact on recruitment performance.
