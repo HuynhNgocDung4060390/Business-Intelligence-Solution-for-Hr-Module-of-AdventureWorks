@@ -25,16 +25,13 @@ IV. DataWarehouse
 
 ![image](https://github.com/HuynhNgocDung4060390/Business-Intelligence-Solution-for-Hr-Module-of-AdventureWorks/assets/150424521/a0d9dc8a-dd45-4d0b-8c71-0c4137784dd9)
 
+![image](https://github.com/HuynhNgocDung4060390/Business-Intelligence-Solution-for-Hr-Module-of-AdventureWorks/assets/150424521/e55a41d5-4b9d-43b6-a180-d10cdc41c096)
+
 3. Bus matrix
 
 ![image](https://github.com/HuynhNgocDung4060390/Business-Intelligence-Solution-for-Hr-Module-of-AdventureWorks/assets/150424521/40b10c7a-4eb7-4f81-b226-9267bc8e61f3)
 
-4. Design data warehouse
-The objective of project is to implement BI Solution for the HR Process of AdventureWorks, therefore selecting relevant tables related to sales performance from the data source to design the AdventureWorksSales data warehouse.
-
-![image](https://github.com/HuynhNgocDung4060390/Business-Intelligence-Solution-for-Hr-Module-of-AdventureWorks/assets/150424521/e55a41d5-4b9d-43b6-a180-d10cdc41c096)
-
-5. Data Warehouse model
+4. Data Warehouse model
 
 ![image](https://github.com/HuynhNgocDung4060390/Business-Intelligence-Solution-for-Hr-Module-of-AdventureWorks/assets/150424521/cf96098a-8e3d-4104-964a-4cd23268cb46)
 
